@@ -14,7 +14,6 @@ import android.util.Log;
 import android.graphics.Bitmap;
 import android.view.MotionEvent;
 import android.view.View;
-
 import java.util.ArrayList;
 // Created by Pragmatist Strategist on 24/5/18.
 // A simple yet amazing app.
